@@ -1,15 +1,15 @@
 # Survey_Form
 
 ## How to run
-1. Clone the repo 
+1. Clone the repository  
 `git clone https://github.com/james222424/Survey_Form.git`
 
-2. navigate to the the folder
+2. navigate to the folder
 
 3. Install node modules
 `npm install`
 
-4. Start the server. Run the follwing command in terminal
+4. Start the server. Run the following command in terminal
 `node server.js`
 
 
